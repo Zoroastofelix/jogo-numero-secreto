@@ -9,7 +9,7 @@ Ao final do curso, desenvolvi um pequeno **jogo interativo** que coloca em prát
 
 
 > 🔗 Acesse o projeto online:  
-> [logica-de-programacao-alura.vercel.app](https://jogo-numero-secreto-git-main-zoroastos-projects.vercel.app/)
+> [https://jogo-numero-secreto-ebon-one.vercel.app/]
 
 ---
 
